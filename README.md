@@ -1,9 +1,8 @@
 Olá, eu sou o Matheus 👋
 
-- 🔭 Estou trabalhando com Front-end.
-- 🌱 Estou estudando JavaScript.
-- 📫 Contato: matheus_rs95@hotmail.com.
-- 😄 Pronome: ele/dele.
+- 🔭 Estou trabalhando com Front-end
+- 🌱 Estou estudando JavaScript
+- 📫 Contato: matheus_rs95@hotmail.com
 
 - ![Matheus Ribeiro GitHub stats](https://github-readme-stats.vercel.app/api?username=devtuzi&show_icons=true&theme=dracula)
 
