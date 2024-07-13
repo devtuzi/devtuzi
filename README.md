@@ -1,7 +1,7 @@
 Olá, eu sou o Matheus 👋
 
 - 🔭 Estou trabalhando com Front-end
-- 🌱 Estou estudando JavaScript
+- 🌱 Estudando JavaScript
 - 📫 Contato: matheus_rs95@hotmail.com
   
 
