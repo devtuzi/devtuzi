@@ -3,10 +3,6 @@ Olá, eu sou o Matheus 👋
 - 🔭 Estou trabalhando com Front-end
 - 🌱 Estudando JavaScript
 - 📫 Contato: matheus_rs95@hotmail.com
-  
-
-![Matheus GitHub stats](https://github-readme-stats.vercel.app/api?username=devtuzi&show_icons=true&theme=onedark)
-
 
 <h3>Tecnologias que utilizo:</h3>
 
