@@ -7,6 +7,7 @@ Olá, eu sou o Matheus 👋
 
 - ![Matheus Ribeiro GitHub stats](https://github-readme-stats.vercel.app/api?username=devtuzi&show_icons=true&theme=dracula)
 
+
 <h3>Tecnologias que utilizo:</h3>
 
 <div style="display: inline_block"><br/>
