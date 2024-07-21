@@ -4,6 +4,8 @@ Olá, eu sou o Matheus 👋
 - 🌱 Estudando JavaScript
 - 📫 Contato: matheus_rs95@hotmail.com
 
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=devtuzi)](https://github.com/devtuzi/github-readme-stats)
+
 <h3>Tecnologias que utilizo:</h3>
 
 <div style="display: inline_block"><br/>
