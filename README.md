@@ -1,7 +1,7 @@
 Olá, eu sou o Matheus Ribeiro 👋
 
 - 🔭 Estou trabalhando com Front-end
-- 🌱 Estudando JavaScript
+- 🌱 Estudando React
 - 📫 Contato: matheus_rs95@hotmail.com
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=devtuzi&show_icons=true&theme=radical)
